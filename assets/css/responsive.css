@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px){
+	.team_title h2{
+		font-size: 20px; 
+		color: green;
+	}
+
+}
+@media only screen and (max-width: 600px){
+	.single_team_member h2{
+		font-size: 20px;
+		color: red; 
+	}
+}
